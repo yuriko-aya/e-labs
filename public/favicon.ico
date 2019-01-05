@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <title>Sanusi Digital Media</title>
+  <meta property="og:title" content="Sanusi Digital Media">
+  <meta property="og:description" content="Selamat datang di Sanusi Digital Media">
+  <meta property="og:image" content="//sanusi.me/ss.png">
+  <meta charset="utf-8">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90335860-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90335860-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90335860-2');
+</script>
+</head>
+<body>
+    <div class="container">
+        <div><h1>Selamat Datang</h1></div>
+        <div class="thin"><small>di</small></div>
+        <div><h1>Sanusi Digital Media</h1></div>
+        <hr>
+        <br>
+        <div class="medium">Kami Melayani:</div>
+        <div class="row infolink">
+            <div class="col-sm-2">
+                <div><i class="fas fa-globe-asia fa-5x"></i></div>
+                <br>
+                <div>Pembuatan Website</div>
+                <div>Hosting</div>
+                <div>Domain</div>
+            </div>
+            <div class="col-sm-2">
+                <div><i class="fa fa-print fa-5x"></i></div>
+                <br>
+                <div>Pengetikan</div>
+                <div>Print</div>
+                <div>Cetak Foto</div>
+            </div>
+            <div class="col-sm-2">
+                <div><i class="fa fa-copy fa-5x"></i></div>
+                <br>
+                <div>Foto Copy</div>
+                <div>Scan Data</div>
+            </div>
+            <div class="col-sm-2">
+                <div><i class="fas fa-mobile-alt fa-5x"></i></div>
+                <br>
+                <div>Pulsa HP</div>
+                <div>Pulsa PLN</div>
+                <div>Tagihan PLN</div>
+            </div>
+            <div class="col-sm-2">
+                <div><i class="fas fa-laptop fa-5x"></i></div>
+                <br>
+                <div>Install Ulang</div>
+                <div>Service Software</div>
+            </div>
+            <div class="col-sm-2">
+                <div><i class="fas fa-compact-disc fa-5x"></i></div>
+                <br>
+                <div>Data CD/DVD</div>
+                <div>Video CD/DVD</div>
+                <div>Penggandaan</div>
+            </div>
+        </div>
+        <br>
+        <hr>
+        <div class="footer"><i class="fab fa-telegram"></i> <i class="fab fa-whatsapp-square"></i> 62 857 1337 0873</div>
+        <div class="footer"><i class="fas fa-envelope"></i> <a href="mailto:ahmad@sanusi.id">ahmad@sanusi.id</a></div>
+    </div>
+</body>
